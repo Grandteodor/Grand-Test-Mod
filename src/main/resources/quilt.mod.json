@@ -8,7 +8,7 @@
 			"name": "Grand Mod",
 			"description": "This mod is a simple test",
 			"contributors": {
-				"Your name here": "Grandteodor"
+				"Main Guy": "Grandteodor"
 			},
 			"contact": {
 				"homepage": "https://github.com/Grandteodor/Grand-Test-Mod",
@@ -20,8 +20,7 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "net.grandteodor.grandmod.GrandMod",
-			"client": "net.grandteodor.grandmod.GrandModClient"
+			"init": "net.grandteodor.grandmod.GrandMod"
 		},
 		"depends": [
 			{
